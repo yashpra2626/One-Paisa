@@ -86,9 +86,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">Mobile Loan <br>
+                        <h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">Micro Small Loan <br>
                         </h1>
-                        <p data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".5">Get Instant Mobile Loan up to ₹1 Lakhs Easily at 1paisa.in
+                        <p data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".5">Apply online for Micro Small Loan & get instant loan at 1paisa.in. <br>
+                            A need for a safe and comfortable lifestyle, a need to have a safety net to tackle any unplanned/immediate requirement.
                         </p>
                         <a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main" href="#">Explore Us</a>
                     </div>
@@ -99,8 +100,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">House Loan</h1>
-                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">Fulfill the dream of owning your dream home at lowest interest rates @8.7 Apply Today! Online at 1paisa.in</p>
+                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">Small Loan</h1>
+                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">Apply online for Small Loan & get instant loan at 1paisa.in. <br>
+                            A need for a safe and comfortable lifestyle, a need to have a safety net to tackle any unplanned/immediate requirement.</p>
                         <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="#">Explore Us</a>
                     </div>
                 </div>
@@ -110,8 +112,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">Personal Loan</h1>
-                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">Apply online for Personal Loan & get instant loan at 1paisa.in. <br>
+                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">Shop Loan</h1>
+                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">Apply online for Shop Loan & get instant loan at 1paisa.in. <br>
                             A need for a safe and comfortable lifestyle, a need to have a safety net to tackle any unplanned/immediate requirement.
                         </p>
                         <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="#">Explore Us</a>
@@ -123,8 +125,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">Vehical Loan</h1>
-                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">1paisa.in offers you the best vehicle loans worth up to 100% of the on-road price <br> of the car you choose to buy, along with attractive interest rates and tenure of up to five years.</p>
+                        <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">Group Loan</h1>
+                        <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">Apply online for Group Loan & get instant loan at 1paisa.in. <br>
+                            A need for a safe and comfortable lifestyle, a need to have a safety net to tackle any unplanned/immediate requirement.</p>
                         <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="#">Explore Us</a>
                     </div>
                 </div>
